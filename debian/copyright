@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: TTLCache
+Source: https://github.com/wunderlist/ttlcache
+
+Files: *
+Copyright: 2014 Wunderlist
+License: MIT
+
+Files: debian/*
+Copyright: 2018 Aron Xu <happyaron.xu@gmail.com>
+License: MIT
+Comment: Debian packaging is licensed under the same terms as upstream
